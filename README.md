@@ -10,7 +10,7 @@ chrisbarcala@gmail.com
 github: cbarcala23
 
 # Link to Site
-https://cbarcala23.github.io/portfolioupdate/
+https://cbarcala23.github.io/homework16/
 
 # Style Sheet
 "assets/css/style.css"
